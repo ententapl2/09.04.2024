@@ -1,2 +1,2 @@
-print("First line")
-print("Second line")
+print("First line from LOCAL")
+print("Second line from LOCAL")
