@@ -1,2 +1,2 @@
-print("First line")
-print("Second line")
+print("First line from GITHUB")
+print("Second line from GITHUB")
